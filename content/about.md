@@ -1,6 +1,6 @@
 ---
 title: Non-robustness issue for estimating the number of factors in high dimensional data
-description: Zhenhao Gong, Department of Economics
+description: Zhenhao Gong, Department of Economics, University of Connecticut
 ---
 
 Big data, also called high-dimensional data, allow economists to achieve a better estimation of economic effects and outcomes, while also brings many challenges to traditional econometric theory at the same time.

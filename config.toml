@@ -1,6 +1,6 @@
 baseURL = "https://zgong103.github.io/username.github.io/"
 languageCode = "en-us"
-title = "Third year project"
+title = "Zhenhao's projects"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
